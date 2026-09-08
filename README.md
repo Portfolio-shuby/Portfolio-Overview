@@ -5,12 +5,16 @@
 - Gameplay Programming
 - Multiplayer
 
+</br>
+
 ## 🛠️ Tech Stack
 - Unreal Engine / Unity
 - C++ / C#
 - Git
 - Visual Studio
 - Version Control
+
+</br>
 
 ## 🎮 Projects
 
@@ -44,6 +48,8 @@
 - Role: PM / Team Lead / Programmer / Game Designer
 - [GitHub Page](https://github.com/Portfolio-shuby/Mystic-Ruins)
 
+</br>
+
 ## 💡 Technical Highlights
 - Player Movement, Interact, Animation
 - Multiplayer Gameplay Synchronization
@@ -53,9 +59,13 @@
 - Save / Load System
 - AI Behavior Tree
 
+</br>
+
 ## 📌 Portfolio
 - [Notion Portfolio](https://taesu-jeong-portfolio.notion.site/3d3a31b2aca680f2b892fb3700a339c8?source=copy_link)
 - [Steam](https://app.notion.com/p/taesu-jeong-portfolio/3d3a31b2aca680f2b892fb3700a339c8?source=copy_link#3d3a31b2aca680db84aec28aea3ffcae) / [STOVE](https://app.notion.com/p/taesu-jeong-portfolio/3d3a31b2aca680f2b892fb3700a339c8?source=copy_link#3d3a31b2aca6803db645e645ce3c7393) (RouletteCircus)
+
+</br>
 
 ## 📫 Contact
 - Email: jj430077@gmail.com
