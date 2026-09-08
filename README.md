@@ -17,7 +17,7 @@
 ### RouletteCircus
 - Unreal Engine
 - C++
-- Steam/Stove Early Access Released
+- **Steam / Stove Early Access Released**
 - Gameplay / Multiplayer / Turn flow
 - Role: PM / Team Lead / Programmer / Game Designer
 - [GitHub Page](https://github.com/Portfolio-shuby/RouletteCircus)
@@ -32,7 +32,7 @@
 ### CYCLE
 - Unity
 - C#
-- Game Jam / 48 Hours / Winner
+- **Game Jam / 48 Hours / Winner**
 - Gameplay / Stage Transition / Cut scene
 - Role: PM / Team Lead / Programmer / Game Designer
 - [GitHub Page](https://github.com/Portfolio-shuby/CYCLE)
